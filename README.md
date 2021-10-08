@@ -1,5 +1,3 @@
-## machine_learning_ex_1
-
 # Machine Learning
 
 ## Instructor ~ Andrew Ng
